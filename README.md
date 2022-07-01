@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lrabright
 - 👀 I’m interested in Front End Development & Running
-- 🌱 I’m currently learning A Front End Development Stack
+- 🌱 I’m currently learning A Front End Development
 - 💞️ I’m looking to collaborate on Front End Dev Projects
 - 📫 How to reach me landryabright@gmail.com
 
